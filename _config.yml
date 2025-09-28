@@ -1,7 +1,8 @@
 title: "Alurit Tech"
 description: "Arquitetura de software moderna e escalável. Integração, modernização e confiabilidade — sem amarrar em uma tecnologia específica."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""     # the base hostname & protocol for your site
+# IMPORTANT: For GitHub Project Pages (user.github.io/repo), use baseurl as '/repo'
+baseurl: "/alurit-site"
+url: "https://tirula.github.io"
 theme: null
 markdown: kramdown
 permalink: pretty

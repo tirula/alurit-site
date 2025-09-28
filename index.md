@@ -7,7 +7,7 @@ description: Arquitetura de software moderna e escalável para PMEs — Alurit T
 <section class="hero">
   <h1>Arquitetura de Software Moderna e Escalável</h1>
   <p>Desenhamos e implementamos soluções flexíveis, resilientes e prontas para crescer — sem amarrar você a uma única tecnologia.</p>
-  <a class="cta" href="/contato/">Fale Conosco</a>
+  <a class="cta" href="{{ site.baseurl }}/contato/">Fale Conosco</a>
 </section>
 
 <section>
