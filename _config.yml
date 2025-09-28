@@ -1,0 +1,10 @@
+title: "Alurit Tech"
+description: "Arquitetura de software moderna e escalável. Integração, modernização e confiabilidade — sem amarrar em uma tecnologia específica."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: ""     # the base hostname & protocol for your site
+theme: null
+markdown: kramdown
+permalink: pretty
+collections:
+  pages:
+    output: true
