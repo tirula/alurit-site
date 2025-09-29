@@ -1,11 +1,7 @@
 title: "Alurit Tech"
-description: "Arquitetura de software moderna e escalável. Integração, modernização e confiabilidade — sem amarrar em uma tecnologia específica."
-# IMPORTANT: For GitHub Project Pages (user.github.io/repo), use baseurl as '/repo'
+description: "Arquitetura de software moderna e escalável para PMEs. Integração, modernização e confiabilidade — sem amarrar stack."
 baseurl: "/alurit-site"
 url: "https://tirula.github.io"
 theme: null
 markdown: kramdown
 permalink: pretty
-collections:
-  pages:
-    output: true

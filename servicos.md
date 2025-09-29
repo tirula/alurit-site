@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Serviços
@@ -10,4 +11,6 @@ permalink: /servicos/
 - **Integração & APIs** — padronizadas, seguras e observáveis  
 - **Modernização de Sistemas** — modularização e redução de acoplamento  
 - **Confiabilidade & Observabilidade** — métricas, logs e tracing  
-- **Automação & IA** — agentes inteligentes e fluxos automatizados, quando fizer sentido para o negócio
+- **Automação & IA** — agentes inteligentes e fluxos automatizados quando fizer sentido para o negócio
+
+> Precisa de algo específico? Vamos desenhar um caminho sob medida para a sua realidade.
