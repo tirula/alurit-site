@@ -1,17 +1,24 @@
-
 ---
 layout: default
 title: Sobre
 permalink: /sobre/
 ---
 
-## Sobre a Alurit Tech
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
 
-Somos especialistas em **arquitetura moderna**, com foco em **escalabilidade, resiliência e simplicidade operacional**.  
-Atuamos escolhendo a tecnologia ideal para cada contexto — sem amarras a stacks específicas.
+<p class="nav-links">
+  <a href="{{ site.baseurl }}/">Início</a>
+  <a href="{{ site.baseurl }}/sobre/">Sobre</a>
+  <a href="{{ site.baseurl }}/servicos/">Serviços</a>
+  <a href="{{ site.baseurl }}/contato/">Contato</a>
+  <a href="https://medium.com/@tirula" target="_blank" rel="noopener">Blog</a>
+</p>
+
+## Sobre a Alurit Tech
+Ajudamos PMEs a construírem e modernizarem sistemas com foco em **escalabilidade, resiliência e simplicidade**.
 
 ### Diferenciais
-- Visão ponta a ponta: estratégia → arquitetura → implementação
-- Foco em resultados de negócio e redução de complexidade
-- Certificações em cloud e experiência prática em sistemas críticos
-- Conteúdo técnico autoral no **[Blog no Medium](https://medium.com/@tirula)**
+- Estratégia → arquitetura → implementação
+- Foco em resultados de negócio
+- Certificações em cloud
+- Conteúdos técnicos no **[Medium](https://medium.com/@tirula)**

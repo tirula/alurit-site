@@ -1,7 +1,9 @@
 title: "Alurit Tech"
-description: "Arquitetura de software moderna e escalável para PMEs. Integração, modernização e confiabilidade — sem amarrar stack."
-baseurl: "/alurit-site"
+description: "Arquitetura de software moderna e escalável. Integração, modernização e confiabilidade."
 url: "https://tirula.github.io"
-theme: null
-markdown: kramdown
-permalink: pretty
+baseurl: "/alurit-site"
+theme: jekyll-theme-cayman
+# Optional social links for Cayman footer
+github:
+  is_project_page: true
+  repository_url: https://github.com/tirula/alurit-site

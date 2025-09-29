@@ -1,21 +1,15 @@
+# Alurit Tech — GitHub Pages (Cayman Theme)
 
-# Alurit Tech — Site (Jekyll + GitHub Pages) — V2
+Site minimalista usando o gerador/Theme Chooser do GitHub Pages.
 
-Site institucional com layout aprimorado, seções com imagens, e link para o blog no Medium.
-
-## Publicar no GitHub Pages
-1. Crie ou use o repositório `alurit-site`.
-2. Faça upload de todos os arquivos na branch `main` (substitua os antigos).
-3. Em **Settings → Pages** selecione:
+## Publicação
+1. Suba estes arquivos no repositório `tirula/alurit-site` (branch `main`).
+2. Em **Settings → Pages** selecione:
    - Source: `Deploy from a branch`
    - Branch: `main` e `/(root)`
+3. Em **Settings → Pages → Theme chooser**, escolha **Cayman** (ou outro de sua preferência).
 4. Acesse: `https://tirula.github.io/alurit-site/`
 
-## Domínio customizado
-- Adicione um arquivo `CNAME` com `alurit.com.br` quando for configurar DNS.
-- Ative **Enforce HTTPS** nas configurações do Pages.
-
-## Personalização rápida
-- Substitua as imagens em `assets/img/` pelos seus visuais/capturas de projetos.
-- Ajuste textos nas páginas `.md`.
-- Estilos globais em `assets/css/style.css`.
+### Dica
+- Coloque seu domínio depois (CNAME) se desejar `alurit.com.br`.
+- Edite os textos nos `.md` e as cores (opcionais) em `assets/css/styles.css`.
